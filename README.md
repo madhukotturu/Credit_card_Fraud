@@ -6,3 +6,6 @@ at Codesoft. The goal of this project was to build
 a robust machine learning model that can effectively
 detect fraudulent transactions in real-time, ensuring
 enhanced security for credit card users.
+
+DataSet link:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
